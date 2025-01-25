@@ -3,6 +3,7 @@ Repository for lynx paper
 
 
 Data and code 
+
 Code is available as two [Wolfram Mathematica](https://www.wolfram.com/mathematica/?source=nav) notebooks and as pdf versions of the notebooks. 
 1. Bee analysis [notebook](https://github.com/dinrao/lynx/blob/main/bee_analysis.nb), [pdf](https://github.com/dinrao/lynx/blob/main/bee_analysis.pdf)
 2. Fly analysis [notebook](https://github.com/dinrao/lynx/blob/main/fly_analysis.nb), [pdf](https://github.com/dinrao/lynx/blob/main/fly_analysis.pdf)

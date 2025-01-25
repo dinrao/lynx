@@ -9,7 +9,8 @@ Code is available as two Wolfram Mathematica notebooks and as pdf versions of th
 3. Colour Analysis [R scripts (RAR file)](https://github.com/dinrao/lynx/blob/main/Scripts%20and%20database.rar)
 
 Code can be viewed by dowloading the free Wolfram notebook Viewer software [Wolfram Player](https://www.wolfram.com/player/)
-Note: Notebooks require loading a custom package called Trajectories3D, avialable [here](https://github.com/dinrao/trajectories)
+Note: Notebooks require loading a custom package called Trajectories3D, available [here](https://github.com/dinrao/trajectories)
 
 CSV files of processed xyz data can be found in the zip file titled [ProcessedData](https://github.com/dinrao/lynx/blob/main/ProcessedData.zip)
 
+[Supplementary Video] (https://github.com/dinrao/lynx/blob/main/S1_(1).mp4)

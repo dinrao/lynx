@@ -12,6 +12,6 @@ Code can be viewed by downloading the free Wolfram notebook Viewer software [Wol
 
 Note: Notebooks require loading a custom Wolfram language package called Trajectories3D, available [here](https://github.com/dinrao/trajectories)
 
-CSV files of processed xyz data can be found in the zip file titled [ProcessedData]()
+CSV files of processed xyz data can be found in the zip file titled [ProcessedData](https://github.com/dinrao/lynx/blob/main/flydata.zip)
 
 [Supplementary Video](https://github.com/dinrao/lynx/blob/main/S1.mp4)

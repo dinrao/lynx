@@ -14,4 +14,4 @@ Note: Notebooks require loading a custom Wolfram language package called Traject
 
 CSV files of processed xyz data can be found in the zip file titled [ProcessedData](https://github.com/dinrao/lynx/blob/main/ProcessedData.zip)
 
-[Supplementary Video](https://github.com/dinrao/lynx/blob/main/S1_(1).mp4)
+[Supplementary Video](https://github.com/dinrao/lynx/blob/main/S1.mp4)

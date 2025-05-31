@@ -6,7 +6,8 @@ Data and code
 
 Code is available as two [Wolfram Mathematica](https://www.wolfram.com/mathematica/?source=nav) notebooks and as pdf versions of the notebooks. 
 1. Trajectory analysis [notebook](https://github.com/dinrao/lynx/blob/main/fly_analysis.nb), [pdf](https://github.com/dinrao/lynx/blob/main/fly_analysis.pdf)
-2. Colour Analysis [R scripts (RAR file)](https://github.com/dinrao/lynx/blob/main/Scripts%20and%20database.rar)
+2. Control analysis [notebook] (https://github.com/dinrao/lynx/blob/main/fly_analysis.nb#:~:text=lynxcontrol.nb)
+3. Colour Analysis [R scripts (RAR file)](https://github.com/dinrao/lynx/blob/main/Scripts%20and%20database.zip)
 
 Code can be viewed by downloading the free Wolfram notebook Viewer software [Wolfram Player](https://www.wolfram.com/player/)
 

@@ -5,9 +5,8 @@ Repository for lynx paper
 Data and code 
 
 Code is available as two [Wolfram Mathematica](https://www.wolfram.com/mathematica/?source=nav) notebooks and as pdf versions of the notebooks. 
-1. Bee analysis [notebook](https://github.com/dinrao/lynx/blob/main/bee_analysis.nb), [pdf](https://github.com/dinrao/lynx/blob/main/bee_analysis.pdf)
-2. Fly analysis [notebook](https://github.com/dinrao/lynx/blob/main/fly_analysis.nb), [pdf](https://github.com/dinrao/lynx/blob/main/fly_analysis.pdf)
-3. Colour Analysis [R scripts (RAR file)](https://github.com/dinrao/lynx/blob/main/Scripts%20and%20database.rar)
+1. Trajectory analysis [notebook](https://github.com/dinrao/lynx/blob/main/fly_analysis.nb), [pdf](https://github.com/dinrao/lynx/blob/main/fly_analysis.pdf)
+2. Colour Analysis [R scripts (RAR file)](https://github.com/dinrao/lynx/blob/main/Scripts%20and%20database.rar)
 
 Code can be viewed by downloading the free Wolfram notebook Viewer software [Wolfram Player](https://www.wolfram.com/player/)
 

@@ -5,7 +5,7 @@ Repository for lynx paper
 Data and code 
 
 Code is available as two [Wolfram Mathematica](https://www.wolfram.com/mathematica/?source=nav) notebooks and as pdf versions of the notebooks. 
-1. Trajectory analysis [notebook](https://github.com/dinrao/lynx/blob/main/fly_analysis.nb), [pdf](https://github.com/dinrao/lynx/blob/main/fly_analysis.pdf)
+1. Trajectory analysis [notebook](https://github.com/dinrao/lynx/blob/main/fly_analysis.nb)
 2. Control analysis [notebook](https://github.com/dinrao/lynx/blob/main/fly_analysis.nb#:~:text=lynxcontrol.nb)
 3. Colour Analysis [R scripts (RAR file)](https://github.com/dinrao/lynx/blob/main/Scripts%20and%20database.zip)
 
